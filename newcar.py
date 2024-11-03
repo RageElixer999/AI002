@@ -14,7 +14,7 @@ import pygame
 # HEIGHT = 880
 
 WIDTH = 1440
-HEIGHT = 900
+HEIGHT = 810
 
 CAR_SIZE_X = 60    
 CAR_SIZE_Y = 60
